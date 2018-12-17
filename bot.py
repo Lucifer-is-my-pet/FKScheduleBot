@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import config
 from datetime import date
 import telebot
 import re
